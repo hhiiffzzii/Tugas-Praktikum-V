@@ -4,70 +4,67 @@ Membuat flowchart dan source code (Python) menggunakan Flowgorithm dan VS Code, 
 
 ## Versi Flowgorithm
 
-### Flowchart Menghitung Luas dan Volume (Plus Hasil Output pada Console)
-![images (1)](https://user-images.githubusercontent.com/93045470/139848749-e12a3011-9822-4d52-8b7e-562f0f4232af.png)<br>
+### Flowchart Menghitung Luas dan Volume Kubus (Plus Hasil Output pada Console)
+![images (1)](https://user-images.githubusercontent.com/93045470/140094793-9a0ad717-2ae3-41ef-9b46-ef0e9aaa2071.png)<br>
 
-### Flowchart Menghitung Luas dan Keliling Persegi Panjang (Plus Hasil Output pada Console)
-![images (2)](https://user-images.githubusercontent.com/93045470/139848756-cd57088f-5ae0-490f-993a-c85a24754d31.png)<br>
+### Flowchart Menghitung Luas dan Volume Balok (Plus Hasil Output pada Console)
+![images (2)](https://user-images.githubusercontent.com/93045470/140094814-f4b8b0e2-7a3d-4a32-bd06-1dca7e6109be.png)<br>
 
-### Flowchart Menghitung Luas dan Keliling Jajar Genjang
-![images (3)](https://user-images.githubusercontent.com/93045470/139848761-7aa2890b-67bf-4a10-9e7f-faa6b49c56d5.png)<br>
-
-Hasil Output pada Console<br>
-![images (4)](https://user-images.githubusercontent.com/93045470/139848764-7bbcdf23-b52d-434d-815f-2056eb653918.png)<br>
-
-### Flowchart Menghitung Luas dan Keliling Segitiga
-![images (5)](https://user-images.githubusercontent.com/93045470/139848766-ea9c1d03-44a1-4b71-928e-349b46631d17.png)<br>
+### Flowchart Menghitung Luas dan Volume Limas Segiempat
+![images (3)](https://user-images.githubusercontent.com/93045470/140094818-8cf54d96-e509-4608-bcd4-fe3591cc219e.png)<br>
 
 Hasil Output pada Console<br>
-![images (6)](https://user-images.githubusercontent.com/93045470/139848768-aded9354-9825-445d-89d2-6cba15364562.png)<br>
+![images (4)](https://user-images.githubusercontent.com/93045470/140094822-b924bcd8-60d2-4bdb-8e45-93c0a0f5f8f0.png)<br>
 
-### Flowchart Menghitung Luas dan Keliling Belah Ketupat
-![images (7)](https://user-images.githubusercontent.com/93045470/139848771-79747d04-fa3c-419f-9b2c-5c631a305f56.png)<br>
-
-Hasil Output pada Console<br>
-![images (8)](https://user-images.githubusercontent.com/93045470/139848773-5419a883-7882-4c5f-9c37-70efa7beb843.png)<br>
-
-### Flowchart Menghitung Luas dan Keliling Layang-Layang
-![images (9)](https://user-images.githubusercontent.com/93045470/139848776-5fd0110d-0df6-454c-aff8-30f8108ca3f9.png)<br>
+### Flowchart Menghitung Luas dan Volume Prisma Segitiga
+![images (5)](https://user-images.githubusercontent.com/93045470/140094823-c0a4460f-07db-4a94-9efe-767c193f3f63.png)<br>
 
 Hasil Output pada Console<br>
-![images (10)](https://user-images.githubusercontent.com/93045470/139848778-87f2993f-83b6-43fb-ac1a-317e1cbb3259.png)<br>
+![images (6)](https://user-images.githubusercontent.com/93045470/140094826-6b77036b-83f7-4364-a259-18f7e1cd7eb3.png)<br>
 
-### Flowchart Menghitung Luas dan Keliling Trapesium
-![images (11)](https://user-images.githubusercontent.com/93045470/139848780-0b59bd85-ccce-42d3-8b66-849be34db0b4.png)<br>
-
-Hasil Output pada Console<br>
-![images (12)](https://user-images.githubusercontent.com/93045470/139848781-b8e2f82c-723b-49a2-8a32-7467c3f8f234.png)<br>
-
-### Flowchart Menghitung Luas dan Keliling Lingkaran
-![images (13)](https://user-images.githubusercontent.com/93045470/139848783-a96c0e6a-fb22-4bfe-af88-bda86a52bab7.png)<br>
+### Flowchart Menghitung Luas dan Volume Segitiga
+![images (7)](https://user-images.githubusercontent.com/93045470/140094832-abe19ce1-ed3a-4f96-9756-618755f39abd.png)<br>
 
 Hasil Output pada Console<br>
-![images (14)](https://user-images.githubusercontent.com/93045470/139848785-9b5ad5ac-7fef-4423-b414-2bb1cff0a606.png)<br>
+![images (8)](https://user-images.githubusercontent.com/93045470/140094835-b4a6a421-0afe-4b0b-bd6d-437a2f6d3685.png)<br>
+
+### Flowchart Menghitung Luas dan Volume Tabung
+![images (9)](https://user-images.githubusercontent.com/93045470/140094839-f22e37f9-32a4-41c6-8fa4-ace3d29fead9.png)<br>
+
+Hasil Output pada Console<br>
+![images (10)](https://user-images.githubusercontent.com/93045470/140094841-2381d837-424a-4ead-bb0e-3c60904f1896.png)<br>
+
+### Flowchart Menghitung Luas dan Volume Kerucut
+![images (11)](https://user-images.githubusercontent.com/93045470/140094848-5ad31e54-fd40-410f-b0b1-b671519b024b.png)<br>
+
+Hasil Output pada Console<br>
+![images (12)](https://user-images.githubusercontent.com/93045470/140094850-5561edf8-12d0-4ee4-8db2-297bc03054ea.png)<br>
+
+### Flowchart Menghitung Luas dan Volume Bola (Plus Hasil Output pada Console)
+![images (13)](https://user-images.githubusercontent.com/93045470/140094856-45753c90-f8d1-40a1-b11a-ddc6b237e344.png)<br>
 
 ## Versi VS Code (Bahasa Pemrograman Python)
 
-### Source Code Menghitung Luas dan Keliling Persegi (Plus Hasil Output)
-![images (15)](https://user-images.githubusercontent.com/93045470/139854228-31432e4d-4842-4cda-b38f-1c48e95bf784.png)<br>
+### Source Code Menghitung Luas dan Volume Kubus (Plus Hasil Output)
+![images (14)](https://user-images.githubusercontent.com/93045470/140094864-46291bd5-3a48-4cce-a451-edf40a1c0a29.png)<br>
 
-### Flowchart Menghitung Luas dan Keliling Persegi (Plus Hasil Output)
-![images (16)](https://user-images.githubusercontent.com/93045470/139854263-bafe291d-d16f-42a2-99dc-68cf95179ef4.png)<br>
+### Flowchart Menghitung Luas dan Volume Balok (Plus Hasil Output)
+![images (15)](https://user-images.githubusercontent.com/93045470/140094870-9949ef34-38f4-4000-b0e0-9374ec8cea55.png)<br>
 
-### Flowchart Menghitung Luas dan Keliling Persegi (Plus Hasil Output)
-![images (17)](https://user-images.githubusercontent.com/93045470/139854272-892d2d29-1f43-4d05-9306-50287ac8c605.png)<br>
+### Flowchart Menghitung Luas dan Volume Limas Segiempat (Plus Hasil Output)
+![images (16)](https://user-images.githubusercontent.com/93045470/140094876-fb900f95-f1d6-48e8-a2ca-20f79c378771.png)<br>
 
-### Flowchart Menghitung Luas dan Keliling Persegi (Plus Hasil Output)
-![images (18)](https://user-images.githubusercontent.com/93045470/139854287-ba2c67b4-a64b-4a83-910d-078d7fa8a1c7.png)<br>
+### Flowchart Menghitung Luas dan Volume Prisma Segitiga (Plus Hasil Output)
+![images (17)](https://user-images.githubusercontent.com/93045470/140094886-434f1134-696b-43b1-8a9d-f811f50c7664.png)<br>
 
-### Flowchart Menghitung Luas dan Keliling Persegi (Plus Hasil Output)
-![images (19)](https://user-images.githubusercontent.com/93045470/139854302-287f4916-383e-4e44-bf81-9df88323aa0c.png)<br>
+### Flowchart Menghitung Luas dan Volume Limas Segitiga (Plus Hasil Output)
+![images (18)](https://user-images.githubusercontent.com/93045470/140094887-47f4cce3-176d-4483-a940-d7d6db3edd0b.png)<br>
 
-### Flowchart Menghitung Luas dan Keliling Persegi (Plus Hasil Output)
-![images (20)](https://user-images.githubusercontent.com/93045470/139854318-484099f9-1444-48f7-a4f3-49b32ff9672a.png)<br>
+### Flowchart Menghitung Luas dan Volume Tabung (Plus Hasil Output)
+![images (19)](https://user-images.githubusercontent.com/93045470/140094894-1a5a67ca-7000-4c34-8d13-a97a2b7e437a.png)<br>
 
-### Flowchart Menghitung Luas dan Keliling Persegi (Plus Hasil Output)
-![images (21)](https://user-images.githubusercontent.com/93045470/139854330-dfc58aed-17e8-46ed-bc2f-c2cdae9509c5.png)<br>
+### Flowchart Menghitung Luas dan Volume Kerucut (Plus Hasil Output)
+![images (20)](https://user-images.githubusercontent.com/93045470/140094900-d6ea392e-07cd-41b8-aaf8-c7a87e20b747.png)<br>
 
-### Flowchart Menghitung Luas dan Keliling Persegi (Plus Hasil Output)
-![images (22)](https://user-images.githubusercontent.com/93045470/139854341-893dec9f-1525-4055-a317-a6e82ba74833.png)<br>
+### Flowchart Menghitung Luas dan Volume Bola (Plus Hasil Output)
+![images (21)](https://user-images.githubusercontent.com/93045470/140094902-d45c0bf8-8bef-4756-ba70-8ce54bce8417.png)<br>

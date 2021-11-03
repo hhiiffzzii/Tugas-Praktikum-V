@@ -41,7 +41,7 @@ Hasil Output pada Console<br>
 ![images (12)](https://user-images.githubusercontent.com/93045470/140094850-5561edf8-12d0-4ee4-8db2-297bc03054ea.png)<br>
 
 ### Flowchart Menghitung Luas dan Volume Bola (Plus Hasil Output pada Console)
-![images (13)](https://user-images.githubusercontent.com/93045470/140094856-45753c90-f8d1-40a1-b11a-ddc6b237e344.png)<br>
+![images (13)](https://user-images.githubusercontent.com/93045470/140098742-65a0ea1a-ed94-48b1-b7b2-e954ab1c9af9.png)<br>
 
 ## Versi VS Code (Bahasa Pemrograman Python)
 
@@ -67,4 +67,4 @@ Hasil Output pada Console<br>
 ![images (20)](https://user-images.githubusercontent.com/93045470/140094900-d6ea392e-07cd-41b8-aaf8-c7a87e20b747.png)<br>
 
 ### Flowchart Menghitung Luas dan Volume Bola (Plus Hasil Output)
-![images (21)](https://user-images.githubusercontent.com/93045470/140094902-d45c0bf8-8bef-4756-ba70-8ce54bce8417.png)<br>
+![images (21)](https://user-images.githubusercontent.com/93045470/140098774-3922fc98-fb48-4d5b-a5e1-73b2fa22ccb8.png)
